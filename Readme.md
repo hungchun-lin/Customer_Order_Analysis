@@ -6,4 +6,4 @@
     
 
 ### This project has been completed with Python
-### The website link: https://hungchun-lin.github.io/Customer_Order_Analysis.py/
+### The website link: https://hungchun-lin.github.io/Customer_Order_Analysis/
